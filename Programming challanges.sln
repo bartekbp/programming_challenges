@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{E084F429-8E76-419F-8A6B-8F544050F526}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Main", "Main\Main.vcxproj", "{E084F429-8E76-419F-8A6B-8F544050F526}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

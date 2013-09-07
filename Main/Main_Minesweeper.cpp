@@ -64,4 +64,6 @@ int main_Minesweeper() {
 		delete [] data;
 		fields++;
 	}
+
+	return 0;
 }
