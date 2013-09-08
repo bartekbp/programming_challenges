@@ -78,6 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Main_LDC_Display.cpp" />
     <ClCompile Include="Main_Trip.cpp" />
     <ClCompile Include="Main_Minesweeper.cpp" />
   </ItemGroup>
