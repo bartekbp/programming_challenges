@@ -78,7 +78,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Main_LDC_Display.cpp" />
+    <ClCompile Include="Main_Graphical_Editor.cpp" />
+    <ClCompile Include="Main_Jolly_Jumper.cpp" />
+    <ClCompile Include="Main_LCD_Display.cpp" />
     <ClCompile Include="Main_Trip.cpp" />
     <ClCompile Include="Main_Minesweeper.cpp" />
   </ItemGroup>
