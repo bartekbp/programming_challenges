@@ -5,7 +5,7 @@
 using namespace std;
 
 
-int main() {
+int main_Jolly_Jumper() {
 	const string jolly("Jolly");
 	const string not_jolly("Not jolly");
 
