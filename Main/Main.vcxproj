@@ -78,10 +78,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Main_Crypt_Kicker_Timeout.cpp" />
     <ClCompile Include="Main_Graphical_Editor.cpp" />
     <ClCompile Include="Main_Hartals.cpp" />
     <ClCompile Include="Main_Jolly_Jumper.cpp" />
     <ClCompile Include="Main_LCD_Display.cpp" />
+    <ClCompile Include="Main_Stack_Em_Up.cpp" />
     <ClCompile Include="Main_Trip.cpp" />
     <ClCompile Include="Main_Minesweeper.cpp" />
   </ItemGroup>

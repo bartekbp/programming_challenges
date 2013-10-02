@@ -5,7 +5,7 @@
 using namespace std;
 
 
-int main() {
+int main_Hartals() {
 	int t;
 	cin >> t;
 	for(int testCases = 0; testCases < t; testCases++)
