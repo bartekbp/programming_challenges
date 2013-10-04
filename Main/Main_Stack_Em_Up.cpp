@@ -121,7 +121,7 @@ void deleteMemory(vector<short*> data)
 }
 
 
-int main() 
+int main_Stack_Em_Up() 
 {
 	string tmp;
 	int numberOfTestCases;
