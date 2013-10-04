@@ -78,6 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Main_Contest_Scoreboard.cpp" />
     <ClCompile Include="Main_Crypt_Kicker_Timeout.cpp" />
     <ClCompile Include="Main_Erdos_Numbers.cpp" />
     <ClCompile Include="Main_Graphical_Editor.cpp" />
