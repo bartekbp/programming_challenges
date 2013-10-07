@@ -6,6 +6,7 @@
 
 using namespace std;
 
+
 const string ACCEPTED = "Accepted";
 const string PRESENTATION_ERROR = "Presentation Error";
 const string WRONG_ANSWER = "Wrong Answer";
