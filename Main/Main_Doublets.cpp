@@ -195,6 +195,15 @@ void printSolution(vector<string> solution)
 }
 
 
+void deleteDictionary(map<string, Node*> inputDictionary)
+{
+	for(map<string, Node*>::iterator it = inputDictionary.begin(); it != inputDictionary.end(); it++)
+	{
+		delete it->second;
+	}
+}
+
+
 int main_Doublets() 
 {
 	set<string> words = readDictionary();
@@ -211,6 +220,8 @@ int main_Doublets()
 			cout << endl;
 		}
 	}
+
+	deleteDictionary(inputDictionary);
 
 	return 0;
 }
