@@ -94,6 +94,7 @@
     <ClCompile Include="Main_Stack_Em_Up.cpp" />
     <ClCompile Include="Main_Trip.cpp" />
     <ClCompile Include="Main_Minesweeper.cpp" />
+    <ClCompile Include="Main_Vitos_Family.cpp" />
     <ClCompile Include="Main_Wertyu.cpp" />
     <ClCompile Include="Main_Wheres_Waldorf.cpp" />
     <ClCompile Include="Main_Yahtzee.cpp" />
