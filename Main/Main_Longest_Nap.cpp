@@ -149,7 +149,7 @@ int main_Longest_Nap()
 		printSolution(nap, dayNumber);
 
 		dayNumber++;
-
+		delete[] filledTime;
 		getline(cin, tmp);
 	}
 
