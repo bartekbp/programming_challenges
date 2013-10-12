@@ -92,6 +92,7 @@
     <ClCompile Include="Main_Hartals.cpp" />
     <ClCompile Include="Main_Jolly_Jumper.cpp" />
     <ClCompile Include="Main_LCD_Display.cpp" />
+    <ClCompile Include="Main_Longest_Nap.cpp" />
     <ClCompile Include="Main_Stacks_of_Flapjacks.cpp" />
     <ClCompile Include="Main_Stack_Em_Up.cpp" />
     <ClCompile Include="Main_Trip.cpp" />
