@@ -79,6 +79,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Main_Automated_Judge_Script.cpp" />
+    <ClCompile Include="Main_Bridge.cpp" />
     <ClCompile Include="Main_Common_Permutation.cpp" />
     <ClCompile Include="Main_Contest_Scoreboard.cpp" />
     <ClCompile Include="Main_Crypt_Kicker_II.cpp" />
