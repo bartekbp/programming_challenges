@@ -89,7 +89,7 @@ void printSolution(vector<int> solution)
 }
 
 
-int main() 
+int main_Shoemakers_Problem() 
 {
 	string tmp;
 	getline(cin, tmp);
